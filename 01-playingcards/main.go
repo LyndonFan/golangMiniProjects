@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"example.com/deck"
+	"game/deck"
 )
 
 func main(){
